@@ -1,24 +1,14 @@
-## 👋 Hi, I'm Rinku Yadav
+<div align="center" style="background-color:#f5f5f5; padding: 20px; border-radius: 10px;">
+  
+  <h2>👋 Hi, I'm <span style="color:#007acc">Rinku Yadav</span></h2>
+  <p><strong>DevOps Engineer</strong> who works with modern DevOps tools & technologies</p>
 
-I am a **DevOps Engineer** skilled in a wide range of DevOps tools and practices.  
-I work with version control, containerization, orchestration, CI/CD, and automation tools to streamline software delivery and infrastructure management.
+  <h3>🛠️ Tools I Use</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  </p>
 
----
-
-### 🚀 Tools & Technologies I Work With:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <!-- Add more tools below as needed -->
-</p>
-
----
-
-### 🔗 Connect with me
-
-<!-- Optional: Add links here -->
-<!-- [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Portfolio](https://your-website.com) -->
+</div>
