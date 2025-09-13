@@ -1,12 +1,24 @@
 ## 👋 Hi, I'm Rinku Yadav
 
-I am a DevOps Engineer with experience in working on a wide range of tools and technologies used in modern DevOps workflows. I specialize in:
+I am a **DevOps Engineer** skilled in a wide range of DevOps tools and practices.  
+I work with version control, containerization, orchestration, CI/CD, and automation tools to streamline software delivery and infrastructure management.
 
-- 🔧 Version control tools like **GitHub** and **GitLab**
-- 🐳 Containerization using **Docker**
-- ☸️ Container orchestration using **Kubernetes**
-- 🛠️ And many other tools required for CI/CD, monitoring, automation, and infrastructure as code
+---
 
-I'm passionate about automating processes, improving deployment pipelines, and ensuring smooth collaboration between development and operations teams.
+### 🚀 Tools & Technologies I Work With:
 
-Feel free to explore my repositories to see my work!
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <!-- Add more tools below as needed -->
+</p>
+
+---
+
+### 🔗 Connect with me
+
+<!-- Optional: Add links here -->
+<!-- [LinkedIn](https://www.linkedin.com/in/your-profile/) | [Portfolio](https://your-website.com) -->
